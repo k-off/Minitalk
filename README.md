@@ -25,9 +25,15 @@ What is NOT supported:
 - data compression;
 
 How to use:
-	- download
-	- in terminal run following:
-	/project_path/make
-	./project_path/server
-	- in a second terminal window run:
-	./project_path/client <server_process_id> <message>
+
+- download
+
+- in terminal run following:
+
+/project_path/make
+
+./project_path/server
+
+- in a second terminal window run:
+
+./project_path/client <server_process_id> <message>
