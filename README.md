@@ -26,14 +26,14 @@ What is NOT supported:
 
 How to use:
 
-- download
+download
 
-- in terminal run following:
+in terminal run following:
 
-/project_path/make
+	/project_path/make
 
-./project_path/server
+	./project_path/server
 
-- in a second terminal window run:
+in a second terminal window run:
 
-./project_path/client <server_process_id> <message>
+	./project_path/client <server_process_id> <message>
